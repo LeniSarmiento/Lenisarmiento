@@ -11,7 +11,7 @@
 
 ## 📋 Sobre Mí
 
-Soy estudiante de **Ingeniería de Sistemas** en la Universidad de Ciencias Aplicadas (UCAL). Actualmente trabajo como **Desarrollador Web**, brindando soporte en proyectos, implementación de soluciones y optimización de bases de datos. 
+Soy estudiante de **Ingeniería de Sistemas** en la Universidad de Ciencias Aplicadas (UCAL). Actualmente trabajo como **Desarrollador Web**, brindando soporte en proyectos, implementación de soluciones y optimización de sistemas.
 
 Me apasiona crear aplicaciones web robustas y escalables, con especial enfoque en el desarrollo full stack y la gestión eficiente de datos.
 
@@ -74,11 +74,11 @@ Me apasiona crear aplicaciones web robustas y escalables, con especial enfoque e
 ## 📊 Estadísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LeniSarmiento&show_icons=true&locale=es&bg_color=0d1117&text_color=ffffff&layout=compact" alt="Lenguajes más usados"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LeniSarmiento&show_icons=true&locale=es&bg_color=0d1117&text_color=ffffff&layout=compact&langs_count=8" alt="Lenguajes más usados"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LeniSarmiento&show_icons=true&locale=es&bg_color=0d1117&text_color=ffffff" alt="Estadísticas de GitHub"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=LeniSarmiento&show_icons=true&locale=es&bg_color=0d1117&text_color=ffffff&count_private=true" alt="Estadísticas de GitHub"/>
 </p>
 
 ---
