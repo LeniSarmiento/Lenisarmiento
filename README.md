@@ -103,17 +103,17 @@ Me apasiona crear aplicaciones web robustas y escalables, con especial enfoque e
 ## 🌐 Conecta Conmigo
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/lenin-david-mamani-sarmiento-01b917239/" target="blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="50"/>
+  <a href="https://www.linkedin.com/in/lenin-david-mamani-sarmiento-01b917239/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" height="40"/>
   </a>
-  <a href="https://www.facebook.com/lenindavid.mamanisarmiento/" target="blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="40" width="50"/>
+  <a href="https://www.facebook.com/lenindavid.mamanisarmiento/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook" height="40"/>
   </a>
-  <a href="https://www.instagram.com/leninmamani_199/" target="blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="50"/>
+  <a href="https://www.instagram.com/leninmamani_199/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" height="40"/>
   </a>
   <a href="mailto:leninmamanisarmiento.2001@gmail.com">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail" height="40" width="50"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" height="40"/>
   </a>
 </p>
 
