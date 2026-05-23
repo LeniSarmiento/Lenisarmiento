@@ -88,18 +88,6 @@ Me apasiona crear aplicaciones web robustas y escalables, con especial enfoque e
 
 ---
 
-## 📊 Estadísticas
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LeniSarmiento&show_icons=true&locale=es&bg_color=0d1117&text_color=ffffff&layout=compact&langs_count=8" alt="Lenguajes más usados"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LeniSarmiento&show_icons=true&locale=es&bg_color=0d1117&text_color=ffffff&count_private=true" alt="Estadísticas de GitHub"/>
-</p>
-
----
-
 ## 🌐 Conecta Conmigo
 
 <p align="left">
