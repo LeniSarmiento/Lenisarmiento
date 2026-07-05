@@ -2,7 +2,7 @@
 
 # 👋 Hola, soy Lenin David Mamani Sarmiento
 
-### Desarrollador Web Full Stack | Estudiante de Ingeniería de Sistemas en UCAL
+### Desarrollador Web Full Stack Jr | Estudiante de Ingeniería de Sistemas en UCAL
 
 Soy un desarrollador enfocado en construir aplicaciones web funcionales, ordenadas y escalables. Me interesa el desarrollo full stack, la automatización con Python, la gestión de bases de datos y la creación de proyectos con buena estructura, documentación y control de versiones.
 
